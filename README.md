@@ -46,6 +46,7 @@ Concept revision for beginners
 ------------------------------------------------------
 
 🧱 Network Devices Implemented
+-
 🔹 Hub
 
 Operates at Physical Layer (OSI Layer 1)
@@ -114,8 +115,13 @@ Eliminates manual IP configuration
 Improves network efficiency and scalability
 
 steps to connect DHCP others Network
+-
 step 1:  Router> enable
+
 step 2:  Router# configure terminal
+
 step 3:  Interface(router port:Gig0/0/1)/ int Gig0/0/1
+
 step 4:  Ip helper-address (DHCP server ip)
+
 step 5:  No shutdown
