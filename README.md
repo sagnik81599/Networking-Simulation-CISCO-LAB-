@@ -42,7 +42,6 @@ Practical lab understanding
 
 Viva & interview preparation
 
-Concept revision for beginners
 ------------------------------------------------------
 
 🧱 Network Devices Implemented
