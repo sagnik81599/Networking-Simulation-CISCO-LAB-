@@ -1,8 +1,10 @@
 Computer Networking Using Cisco Packet Tracer Practical Implementation
 
 <img width="762" height="472" alt="Lab1" src="https://github.com/user-attachments/assets/c9a6f379-9640-4556-976e-352f04603e0b" />
----------------------------------------------------------------------
-⚙️ Tools & Technologies Used
+
+-----------------------------------------------------
+⚙️ Tools & Technologies Used:
+-
 
 Cisco Packet Tracer
 
