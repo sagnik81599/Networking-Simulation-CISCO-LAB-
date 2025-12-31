@@ -77,6 +77,7 @@ Uses IP addressing for packet forwarding
 Enables inter-network communication
 ---------------------------------------------------------
 🖥️ Server Services Configured
+
 📁 FTP Server (File Transfer Protocol)
 
 Used for file upload and download
