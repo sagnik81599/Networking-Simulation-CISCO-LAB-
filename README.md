@@ -1,6 +1,32 @@
 Computer Networking Using Cisco Packet Tracer Practical Implementation
-<img width="762" height="472" alt="Lab1" src="https://github.com/user-attachments/assets/c9a6f379-9640-4556-976e-352f04603e0b" />
 
+<img width="762" height="472" alt="Lab1" src="https://github.com/user-attachments/assets/c9a6f379-9640-4556-976e-352f04603e0b" />
+---------------------------------------------------------------------
+⚙️ Tools & Technologies Used
+
+Cisco Packet Tracer
+
+Networking Devices:
+
+Hub
+
+Switch
+
+Router
+
+Server
+
+PCs
+
+Networking Protocols:
+
+FTP
+
+SMTP
+
+POP3 / IMAP
+
+DHCP
 📌 Overview
 
 This repository contains a complete practical implementation of computer networking concepts using Cisco Packet Tracer.
@@ -81,9 +107,13 @@ Subnet Mask
 
 Default Gateway
 
-
-
-
 Eliminates manual IP configuration
 
 Improves network efficiency and scalability
+
+steps to connect DHCP others Network
+step 1:  Router> enable
+step 2:  Router# configure terminal
+step 3:  Interface(router port:Gig0/0/1)/ int Gig0/0/1
+step 4:  Ip helper-address (DHCP server ip)
+step 5:  No shutdown
